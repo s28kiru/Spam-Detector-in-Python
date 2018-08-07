@@ -1,10 +1,8 @@
-<h1>Text_mining_and_NLP</h1>
+<h1>Spam Detector in Python</h1>
 
 Projects on Text Mining and Natural Language Processing in R &amp; Python 
 
 <h2>Brief Description of Projects</h2>
-
-<h3>Spam Detector in Python </h3>
 
 <h4>Kaggle-Sms spam</h4>
 Dataset Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset<br>
