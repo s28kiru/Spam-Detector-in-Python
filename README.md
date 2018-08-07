@@ -1,6 +1,6 @@
 <h1>Spam Detector in Python</h1>
 
-Projects on Text Mining and Natural Language Processing in R &amp; Python 
+Projects on Text Mining and Natural Language Processing in Python 
 
 <h2>Brief Description of Projects</h2>
 
